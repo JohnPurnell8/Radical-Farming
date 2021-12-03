@@ -6,4 +6,4 @@ Once you download the mods you can put the .zip folders into your Farming Sim mo
 Documents,
 My Games,
 FarmingSimulator22, 
-Mods,
+Mods
